@@ -1,0 +1,17 @@
+	<table align="left" border="0">
+		<tr>
+		<td><label for="kode_kelas">Kelas</label></td>
+		<td>:</td>
+		<td><?php echo $_GET['kode_kelas']; ?></td>
+		</tr>
+		<tr>
+		<td><label for="bulan">Bulan</label></td>
+		<td>:</td>
+		<td><?php echo $_GET['bulan']; ?></td>
+		</tr>
+		<tr>
+		<td><label for="tahun">Tahun</label></td>
+		<td>:</td>
+		<td><?php echo $_GET['tahun']; ?></td>
+		</tr>
+	</table>

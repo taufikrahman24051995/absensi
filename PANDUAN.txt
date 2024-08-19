@@ -1,0 +1,13 @@
+PANDUAN ... !!!
+
+Usahakan di laptop kamu sudah terinstall Xampp versi versi 7 yang sudah terinclude PHP versi 7.
+
+1. Jalankan xampp, kemudian start web server apache dan database server mysql
+
+2. Extract program absensi ini dan paste di : Local Disk C/xampp/htdocs
+
+3. Buka browser masuk phpmyadmin buat database dengan nama db_absensi
+
+4. Didalam database db_absensi import db_absensi.sql yang berada di folder db_absensi
+
+5. Jalankan Program Absensi dengan mengetik localhost/absensi di browser 
